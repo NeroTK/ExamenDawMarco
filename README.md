@@ -13,3 +13,6 @@ Para poder realizar lo que pide el enunciado, he seguido los siguientes pasos:
 
 1. Acceder a la máquina remota mediante SSH. Esto lo he realizado mediante el comando: ssh usuario@192.168.0.148
    ![ConectarSSH](https://github.com/NeroTK/ExamenDawMarco/blob/main/ConectarSSH.png)
+2. Ir al escritorio de la maquina remota y crear un archivo de texto con el nombre especificado
+   ![CrearArchivo](https://github.com/NeroTK/ExamenDawMarco/blob/main/ConectarSSH.png)
+   
