@@ -28,5 +28,15 @@ Para este segundo ejercicio, teníamos que seguir el siguiente enunciado:
 
 Para crear el VirtualHost y acceder a la web local, deberemos hacer lo siguiente:
 
-1. Abrir el archivo de configuración de Apache con el editor nano
+1. Abrir el archivo de configuración de Apache con el editor nano  
    ![AbrirConfigApache](https://github.com/NeroTK/ExamenDawMarco/blob/main/AbrirConfigApache.png)
+2. Agregar las siguientes líneas al archivo para configurar el VirtualHost  
+   ![ConfiguracionVirtualHost](https://github.com/NeroTK/ExamenDawMarco/blob/main/ConfiguracionVirtualhost.png)
+3. Crear el directorio **/var/www/daw_ejercicio3** y crear el **index.html**  
+   ![CrearDirectorioYIndex](https://github.com/NeroTK/ExamenDawMarco/blob/main/CrearDirectorioyIndex.png)
+4. Habilitar el nuevo sitio y reiniciar Apache  
+   ![HabilitarSitio](https://github.com/NeroTK/ExamenDawMarco/blob/main/HabilitarSitio.png)
+5. Agregar la linea **127.0.0.1   daw.ejercicio3.com** en /etc/hosts mediante el editor nano para apuntarlo en la máquina local  
+   ![AñadirDireccionHosts](https://github.com/NeroTK/ExamenDawMarco/blob/main/A%C3%B1adirDireccionHosts.png)
+6. Comprobar que funciona ingresando en el navegador la dirección: **daw.ejercicio3.com**
+   ![ComprobarFuncionamiento](https://github.com/NeroTK/ExamenDawMarco/blob/main/ComprobarFuncionamiento.png)
