@@ -19,5 +19,5 @@ Para poder realizar lo que pide el enunciado, he seguido los siguientes pasos:
    ![EscribirWhoami](https://github.com/NeroTK/ExamenDawMarco/blob/main/EscribirWhoami.png)  
 4. Concatenar información sobre quién está conectado mediante SSH
    ![ConcatenarConectados](https://github.com/NeroTK/ExamenDawMarco/blob/main/ConcatenarConectados.png)  
-5. Verificar el contenido del archivo 
+5. Verificar el contenido del archivo  
    ![ComprobarResultado](https://github.com/NeroTK/ExamenDawMarco/blob/main/ComprobarResultado.png)
