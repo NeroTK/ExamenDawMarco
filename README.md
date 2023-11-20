@@ -11,13 +11,13 @@ Después, mediante otro comando, concatena al final del archivo el resultado del
 
 Para poder realizar lo que pide el enunciado, he seguido los siguientes pasos:
 
-1. Acceder a la máquina remota mediante SSH
-   ![ConectarSSH](https://github.com/NeroTK/ExamenDawMarco/blob/main/ConectarSSH.png)  
-2. Ir al escritorio de la maquina remota y crear un archivo de texto con el nombre especificado
-   ![CrearArchivo](https://github.com/NeroTK/ExamenDawMarco/blob/main/CrearArchivo.png)  
-3. Escribir el resultado de whoami en el archivo de texto
-   ![EscribirWhoami](https://github.com/NeroTK/ExamenDawMarco/blob/main/EscribirWhoami.png)  
-4. Concatenar información sobre quién está conectado mediante SSH
-   ![ConcatenarConectados](https://github.com/NeroTK/ExamenDawMarco/blob/main/ConcatenarConectados.png)  
+1. Acceder a la máquina remota mediante SSH  
+   ![ConectarSSH](https://github.com/NeroTK/ExamenDawMarco/blob/main/ConectarSSH.png)
+2. Ir al escritorio de la maquina remota y crear un archivo de texto con el nombre especificado  
+   ![CrearArchivo](https://github.com/NeroTK/ExamenDawMarco/blob/main/CrearArchivo.png)
+3. Escribir el resultado de whoami en el archivo de texto  
+   ![EscribirWhoami](https://github.com/NeroTK/ExamenDawMarco/blob/main/EscribirWhoami.png)
+4. Concatenar información sobre quién está conectado mediante SSH  
+   ![ConcatenarConectados](https://github.com/NeroTK/ExamenDawMarco/blob/main/ConcatenarConectados.png)
 5. Verificar el contenido del archivo  
    ![ComprobarResultado](https://github.com/NeroTK/ExamenDawMarco/blob/main/ComprobarResultado.png)
