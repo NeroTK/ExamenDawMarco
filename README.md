@@ -8,3 +8,5 @@ Para este ejercicio, teníamos que seguir el siguiente enunciado:
 >
 >Deberás ir al escritorio y crear un archivo de texto que contenga como nombre de archivo, tu nombre propio y apellido sin espacios y con extensión txt (por ejemplo ArnoldSchwarzenegger.txt) escribe en su interior el resultado de whoami.
 Después, mediante otro comando, concatena al final del archivo el resultado del comando necesario para saber quién está conectado a la máquina mediante ssh.
+
+Para este ejercicio, 
