@@ -40,3 +40,6 @@ Para crear el VirtualHost y acceder a la web local, deberemos hacer lo siguiente
    ![AñadirDireccionHosts](https://github.com/NeroTK/ExamenDawMarco/blob/main/A%C3%B1adirDireccionHosts.png)
 6. Comprobar que funciona ingresando en el navegador la dirección: **daw.ejercicio3.com**
    ![ComprobarFuncionamiento](https://github.com/NeroTK/ExamenDawMarco/blob/main/ComprobarFuncionamiento.png)
+
+## Conclusión
+A lo largo de estos ejercicios, he puesto a prueba mis conocimientos de varios aspectos, como SSH, Markdown, Apache, VirtualHosts y sentencias en terminal, todo ello para poder realizarlos y documentarlos de forma completa.
