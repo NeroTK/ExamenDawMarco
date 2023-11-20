@@ -2,6 +2,8 @@
 ## Introducción
 En este archivo MarkDown, documentaré paso a paso como he realizado los ejercicios 2 y 3 del examen de DAW, incluyendo capturas del proceso. El ejercicio 2 és de SSH, y en él tendré que acceder a una máquina remota para crear un archivo con mi nombre, que contenga el nombre de usuario de mi máquina, y concatenar el nombre de todos los conectados a la máquina remota. Por otro lado, el ejercicio 3 trata de crear un VirtualHost, en el que crearé un html con mi nombre, y lo ejecutare en el navegador mediante apache.
 
+Como motivación de la realización de este documento y ejercicios, cabe destacar que se realizan para una prueba técnica o examen para poder poner a prueba mis conocimientos en varios ámbitos, como SSH o los VirtualHosts.
+
 ## Ejercicio 2: SSH
 Para este ejercicio, teníamos que seguir el siguiente enunciado:
 >Documenta todos los pasos realizados en un archivo MarkDown. Accede a esta máquina remota mediante ssh: **(Captura de pantalla con la ip 192.168.0.148)**
@@ -42,4 +44,9 @@ Para crear el VirtualHost y acceder a la web local, deberemos hacer lo siguiente
    ![ComprobarFuncionamiento](https://github.com/NeroTK/ExamenDawMarco/blob/main/ComprobarFuncionamiento.png)
 
 ## Conclusión
-A lo largo de estos ejercicios, he puesto a prueba mis conocimientos de varios aspectos, como SSH, Markdown, Apache, VirtualHosts y sentencias en terminal, todo ello para poder realizarlos y documentarlos de forma completa.
+A lo largo de estos ejercicios, he puesto a prueba mis conocimientos de varios aspectos, como SSH, Markdown, Apache, VirtualHosts y sentencias en terminal, todo ello para poder realizarlos y documentarlos de forma completa. He conseguido realizar de forma satisfactoria ambos ejercicios, como se puede comprobar en el cuerpo de la memoria, al final de los apartados _"Ejercicio 2"_ y _"Ejercicio 3"_.
+
+## Bibliografía
+[Instalación Apache](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04-es?authuser=0)
+[Creación VirtualHost](https://ubuntu.com/tutorials/install-and-configure-apache#4-setting-up-the-virtualhost-configuration-file)
+[TutorialSSH](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server-es?authuser=0)
