@@ -21,3 +21,7 @@ Para poder realizar lo que pide el enunciado, he seguido los siguientes pasos:
    ![ConcatenarConectados](https://github.com/NeroTK/ExamenDawMarco/blob/main/ConcatenarConectados.png)
 5. Verificar el contenido del archivo  
    ![ComprobarResultado](https://github.com/NeroTK/ExamenDawMarco/blob/main/ComprobarResultado.png)
+
+## Ejercicio 3: VirtualHost
+Para este segundo ejercicio, teníamos que seguir el siguiente enunciado:
+>Documenta todos los pasos realizados en un archivo MarkDown. Crea en tu máquina un virtualhost donde escribiendo _“daw.ejercicio3.com”_ nos envíe a una web local que simplemente contenga tu nombre.
