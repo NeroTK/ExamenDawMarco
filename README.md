@@ -47,6 +47,8 @@ Para crear el VirtualHost y acceder a la web local, deberemos hacer lo siguiente
 A lo largo de estos ejercicios, he puesto a prueba mis conocimientos de varios aspectos, como SSH, Markdown, Apache, VirtualHosts y sentencias en terminal, todo ello para poder realizarlos y documentarlos de forma completa. He conseguido realizar de forma satisfactoria ambos ejercicios, como se puede comprobar en el cuerpo de la memoria, al final de los apartados _"Ejercicio 2"_ y _"Ejercicio 3"_.
 
 ## Bibliografía
-[Instalación Apache](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04-es?authuser=0)  
-[Creación VirtualHost](https://ubuntu.com/tutorials/install-and-configure-apache#4-setting-up-the-virtualhost-configuration-file)  
-[TutorialSSH](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server-es?authuser=0)  
+[Instalación Apache](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04-es?authuser=0)
+
+[Creación VirtualHost](https://ubuntu.com/tutorials/install-and-configure-apache#4-setting-up-the-virtualhost-configuration-file)
+
+[TutorialSSH](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server-es?authuser=0)
