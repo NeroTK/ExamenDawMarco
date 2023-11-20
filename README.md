@@ -2,9 +2,9 @@
 ## Índice
 [Introducción](https://github.com/NeroTK/ExamenDawMarco/blob/main/README.md#Introducción)
 
-[Ejercicio 2: SSH](https://github.com/NeroTK/ExamenDawMarco/blob/main/README.md#Ejercicio-2:-SSH)
+[Ejercicio 2: SSH](https://github.com/NeroTK/ExamenDawMarco/blob/main/README.md#Ejercicio-2-SSH)
 
-[Ejercicio 3: VirtualHost](https://github.com/NeroTK/ExamenDawMarco/blob/main/README.md#Ejercicio-3:-VirtualHost)
+[Ejercicio 3: VirtualHost](https://github.com/NeroTK/ExamenDawMarco/blob/main/README.md#Ejercicio-3-VirtualHost)
 
 [Conclusión](https://github.com/NeroTK/ExamenDawMarco/blob/main/README.md#Conclusión)
 
